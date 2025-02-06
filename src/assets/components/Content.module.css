@@ -1,0 +1,81 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(262deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4));
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.location,
+.dateText,
+.windStatus,
+.weatherStatus {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dateText,
+.weatherStatus {
+  flex-direction: column;
+}
+
+.information {
+  display: flex;
+  gap: 10px;
+  font-size: 14px;
+}
+
+.location {
+  margin-top: 20px;
+}
+
+.location h2 {
+  margin: 0;
+  margin-left: 10px;
+  font-weight: 300;
+}
+
+.location h2 span,
+.dateText {
+  font-size: 14px;
+}
+
+.weatherDescription h3 {
+  margin: 0;
+  text-transform: capitalize;
+  font-weight: 400;
+}
+
+.weatherDescription h1 span {
+  font-size: 38px;
+}
+
+.weatherStatus {
+  width: 100%;
+  padding: 20px 0px;
+}
+
+.weatherStatus h1 {
+  font-size: 64px;
+  font-weight: 200;
+  margin: 0;
+}
+
+.weatherStatus h3 {
+  font-weight: 400;
+}
+
+.windStatus {
+  padding: 0px 20px;
+  background: rgba(0, 0, 0, 0.3);
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.windStatus h3 {
+  margin-left: 10px;
+  font-weight: 400;
+}

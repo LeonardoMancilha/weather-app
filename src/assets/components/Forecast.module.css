@@ -1,0 +1,46 @@
+.forecast {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.forecast_day {
+  animation: forecastSlideIn 0.5s ease-out forwards;
+  margin: 10px;
+  text-align: center;
+}
+
+.forecast_day img {
+  width: 50px;
+  height: 50px;
+}
+
+.forecast_day p {
+  margin: 5px;
+}
+
+@keyframes slideIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes forecastSlideIn {
+  0% {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.weather-info {
+  animation: slideIn 0.5s ease-out forwards;
+}

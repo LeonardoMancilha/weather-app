@@ -1,0 +1,30 @@
+.inputWrapper {
+  display: flex;
+}
+
+.inputWrapper input {
+  width: 100%;
+  padding: 5px 10px;
+  height: 30px;
+  font-size: 14px;
+  border: none;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.inputWrapper input:focus {
+  outline: none;
+}
+
+.inputWrapper button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  color: #fff;
+  border: none;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  cursor: pointer;
+  width: 80px;
+}
