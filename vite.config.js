@@ -8,6 +8,11 @@ export default defineConfig({
       external: ['react-feather'],
     },
   },
+  resolve: {
+    alias: {
+      'react-feather': require.resolve('react-feather'),
+    },
+  },
   plugins: [react()],
 });
 

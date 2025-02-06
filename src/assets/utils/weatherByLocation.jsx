@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import api from "../../api/api";
-import { Map } from "react-feather";
+import { Map } from "../../../node_modules/react-feather";
 import getWeatherTheme from "../utils/getWeatherByTheme";
 import "../../App.css";
 
