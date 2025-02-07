@@ -1,2 +1,4 @@
 User-agent: *
 Disallow:
+
+Sitemap: https://weather-app-279f-git-main-leonardomancilhas-projects.vercel.app/
