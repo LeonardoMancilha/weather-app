@@ -3,7 +3,7 @@ Um aplicativo moderno e interativo para consulta de previsão do tempo, utilizan
 
 ## 📸 Demonstração
 
-
+![Captura de tela 2025-02-07 203213](https://github.com/user-attachments/assets/ec3054bd-a596-4a46-8856-252c29df75f8)
 
 ## 📌 Funcionalidades
 - ✅ Busca por cidade: Digite o nome da cidade para visualizar o clima.
