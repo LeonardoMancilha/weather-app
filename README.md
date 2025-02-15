@@ -37,10 +37,10 @@ O projeto segue boas práticas para garantir melhor indexação e carregamento o
 ### Pontuações no Lighthouse
 As pontuações do projeto no Lighthouse são as seguintes:
 
-Performance: 100/100 🚀
-Acessibilidade: 10/100 🌟
-SEO: 100/100 🏅
-Boas Práticas: 100/100 ✅
+- Performance: 100/100 🚀
+- Acessibilidade: 10/100 🌟
+- SEO: 100/100 🏅
+- Boas Práticas: 100/100 ✅
 
 Essas pontuações indicam que o projeto foi otimizado para fornecer uma excelente experiência de usuário, com foco em performance, acessibilidade e SEO.
 
@@ -56,7 +56,7 @@ Essas pontuações indicam que o projeto foi otimizado para fornecer uma excelen
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/LeonardoMancilha/weather-app.git
+git clone https://github.com/LeonardoMancilha/weather-app
 ```
 
 2. Instale as dependências:
