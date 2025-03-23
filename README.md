@@ -1,5 +1,5 @@
 # 🌤️ Weather App
-Um aplicativo moderno e interativo para consulta de previsão do tempo, utilizando React, Vite e a OpenWeather API.
+Um projeto moderno e interativo para consulta de previsão do tempo, utilizando React, Vite e a OpenWeather API.
 
 ## 📸 Demonstração
 
